@@ -1,0 +1,6 @@
+{
+  "name": "URL-to-Ad Generator",
+  "description": "Turn any public product page URL into high-converting AI video ads with Wan 3.0, vision intelligence, art direction, and JSON2Video rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
